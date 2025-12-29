@@ -9,7 +9,17 @@
         <option value="$PROJECT_DIR$/Config_Service/pom.xml" />
         <option value="$PROJECT_DIR$/Discovery_Service/pom.xml" />
         <option value="$PROJECT_DIR$/Gateway_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Conference_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Keynote_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Conferen_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Keynot_Service/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Conference_Service/pom.xml" />
+        <option value="$PROJECT_DIR$/Keynote_Service/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="21" project-jdk-type="JavaSDK">
